@@ -1,0 +1,107 @@
+header {
+    padding-top: 0.05em;
+    height: 5em;
+    color: whitesmoke;
+    font-weight: bold;
+    font-size: large;
+    background-color: black;
+    text-transform: capitalize;
+}
+
+figure.logo{
+    display: inline;
+   
+}
+
+img.logo{
+    width: 70px;
+    height: 70px;
+}
+
+#tituloPrincipal{
+    display: inline;
+    font-size: 60px; 
+    
+}
+
+h2{
+    display: inline;
+    font-size: 40px;
+    padding-left: 10px;
+    color: #FBDD21;
+}
+
+footer {
+    width: 100%;
+    height: auto;
+    font-size: 75%;
+    padding: 0.625em 0.9em 1.4em;
+    background-color: black;
+    text-align: center;
+    min-height: 2em;
+    left: 0;
+    width:100%;
+    bottom: 0;
+    position: fixed;
+}
+
+section {
+
+	float: left;
+	width: auto;
+	height: auto;
+	min-height: 30em;
+	margin-top: 20px;
+	background-color:#83CFF8;
+	text-transform: none;
+}
+
+body{
+	font-family: Verdana, Helvetica, Arial, "Times New Roman";
+	color: whitesmoke;
+	margin-block-start: 0.1em;
+	margin-block-end: 0.1em;
+	margin-inline-start: 0.3em;
+    margin-inline-end: 0.2em;
+    background-image: linear-gradient(-45deg, #CF1F15 50%, #FBDD21 50%);
+    min-height: 100vh;
+}
+
+.controls{
+    width: 25%;
+    border-radius:5px;
+    font-family: 'calibri';
+    color: black;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    font-size: 18px;
+}
+
+#Registro {
+    font-size: 50px;
+    font-family: sans-serif;
+    color: whitesmoke;
+    text-align: center;
+
+}
+
+.botton{
+    justify-content: center;
+    padding: 6px 12px;
+    border-radius: 5px;
+    margin-right: 50px;
+    margin-top: 40px;
+    margin-left: 50px;
+    
+}
+
+#contenedor{
+    text-align: center;
+}
+
+* {
+    margin: 0; 
+    padding: 0;
+    box-sizing: border-box;
+}
+
